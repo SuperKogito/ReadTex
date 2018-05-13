@@ -3,7 +3,7 @@ from gui import Application
 
 def callback():
     print("called the callback!")
-    
+
 def create_menu(root):
     menu = tk.Menu(root)
     root.config(menu=menu)
@@ -24,7 +24,7 @@ def main():
     root.title("ReadTex")
     root.configure(background='black')
     # Create a menu
-    create_menu(root)      
+    create_menu(root)
     app.mainloop()
 
 
