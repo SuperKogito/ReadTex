@@ -35,4 +35,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 * The nameless heros of Stackoverflow
 * Google Text-to-Speech api (https://pypi.org/project/gTTS/)
-* etc
